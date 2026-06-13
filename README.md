@@ -106,9 +106,9 @@ arnav = {
 
 ## 📊 GitHub Stats
 
-![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnavgithub1911&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgithub1911&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
